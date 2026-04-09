@@ -7,7 +7,7 @@ backend/__pycache__/
 *.pyc
 
 # Node
-frontend/node_modules/
+node_modules/
 frontend/dist/
 
 # OS
